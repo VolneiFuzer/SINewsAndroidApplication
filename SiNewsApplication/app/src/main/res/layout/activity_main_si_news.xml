@@ -19,7 +19,6 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        app:headerLayout="@layout/nav_header_main_activity_si_news"
         app:menu="@menu/activity_main_si_news_drawer" />
 
 </android.support.v4.widget.DrawerLayout>
